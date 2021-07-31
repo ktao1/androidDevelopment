@@ -1,5 +1,6 @@
 # Calculator
-An android application that implements basic calculator functions base on flow chart
+An android application that implements basic calculator functions base on flow chart;
+
 Skills: Activity Lift Cycle, Data binding, MVVM, Different layout
 between portrait and landscape
 
