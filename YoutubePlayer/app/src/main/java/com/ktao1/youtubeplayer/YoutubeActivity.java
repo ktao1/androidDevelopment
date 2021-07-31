@@ -15,9 +15,9 @@ import com.ktao1.youtubeplayer.databinding.ActivityYoutubeBinding;
 public class YoutubeActivity extends YouTubeBaseActivity
     implements YouTubePlayer.OnInitializedListener {
 
-    static final String GOOGLE_API_KEY = "AIzaSyA6eF4Jcw0DOIbvpXLRP9Zt2GLMww5ELF0";
-    static final String YOUTUBE_VIDEO_ID = "dgw9o2a39Q0";
-    static final String YOUTUBE_VIDEO_PLAYLIST = "PLYH8WvNV1YElEvXrU1B5-nMEkQJFd8inI";
+    static final String GOOGLE_API_KEY = "";
+    static final String YOUTUBE_VIDEO_ID = "Sjj9Ueigv00";
+    static final String YOUTUBE_VIDEO_PLAYLIST = "PLa6hfODZGVZvRzR28iovPyKzkD52CBDOJ";
     private ActivityYoutubeBinding binding;
     private static final String TAG = "YoutubeActivity";
     
